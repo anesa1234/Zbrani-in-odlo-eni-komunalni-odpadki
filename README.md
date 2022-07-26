@@ -1,2 +1,2 @@
-# Zbrani-in-odlo-eni-komunalni-odpadki
+# Zbrani in odloženi komunalni odpadki
 Letno, občine Slovenije
