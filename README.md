@@ -1,2 +1,2 @@
 # Zbrani in odloženi komunalni odpadki
-Letno, občine Slovenije
+Občine Slovenije po letih od 2010 do 2020
