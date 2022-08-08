@@ -8,7 +8,8 @@ Pri projektu smo uporabili računalniski program Mathematica.
 ## Načrt projekta
 
 * Pridobivanje podatkov. Uporabila bom Wolfram data repository
-* Predstavila bom splošen tabelni in grafični prikaz podatkov o odpadkih v vseh občinah skupaj po letih
+* Predstavila bom splošen tabelni prikaz podatkov o odpadkih v vseh občinah skupaj po letih
+* Predstavila bom splošen tabelni in grafični prikaz o odpadkih v sloveniji
 * Z grafi bom prikazala najbolj problematične občine, njihovo onesnaženost med leti 2012 in 2020 in jih primerjala z najmanj onesnaženimi občinami. V obzir sem vzela velikost in naseljenost občine. 
 * Naredila bom aplikacijo v oblaku, ki bo kot vnos sprejela občino in izrisala graf zbranih odpadkov v zadnih letih
 * Analizirala bom razliko medd prvim in zadnjim obravnavanim letom in primerjala spremembe 
