@@ -12,4 +12,4 @@ Pri projektu smo uporabili računalniski program Mathematica.
 * Predstavila bom splošen tabelni in grafični prikaz o odpadkih v Sloveniji nasplošno
 * Z grafi bom prikazala najbolj problematične občine, njihovo onesnaženost med leti 2012 in 2020 in razloge za tako onesnaženost.  
 * Raziskala bom podatke o ukrepih za obravnavani problem ter učinkovitost teh ukrepov glede na znane podatke.
-* Za lažje razumevanje bom pripravila video-predstavitev mojega projekta 
+* Za lažje razumevanje bom pripravila video-predstavitev mojega projekta - https://youtu.be/xjrJQK5nEdo 
